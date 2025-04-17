@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats-eight-beige-35.vercel.app/api?username=PedroHenrique910&show_icons=true&theme=radical))](https://github.com/PedroHenrique910/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique910&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique910&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
