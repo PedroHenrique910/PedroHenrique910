@@ -1,3 +1,5 @@
+Olá, seja bem-vindo ao meu GitHub!
+
 [![Anurag's GitHub stats](https://github-readme-stats-eight-beige-35.vercel.app/api?username=PedroHenrique910&show_icons=true&theme=radical))](https://github.com/PedroHenrique910/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique910&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
