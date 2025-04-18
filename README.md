@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Henrique 
+#  Pedro Henrique 
 
 **`Desenvolvedor Front-End`**
 
