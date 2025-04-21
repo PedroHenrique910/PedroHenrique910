@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Pedro Henrique 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Meu nome é Pedro Henrique Silva Ribeiro, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na CEUNSP. Tenho grande interesse pela área de tecnologia e venho me desenvolvendo como profissional, com foco em front-end e aprimorando meus conhecimentos em back-end.
 
