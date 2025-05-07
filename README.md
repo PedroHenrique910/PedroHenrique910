@@ -1,8 +1,3 @@
-<h3 align="left">Selecione o idioma:</h3>
-
-#### [English Readme](README.en.md) - [Português Readme](README.md)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tagesschrift&size=23&duration=2500&pause=1000&color=1000B1&width=435&lines=Ol%C3%A1%2C+seja-bem+vindo(a)!;Aqui+voc%C3%AA+encontra+um+pouco+do+que+fa%C3%A7o;E+um+pouco+sobre+mim%2C+fique+%C3%A0+vontade!)](https://git.io/typing-svg)
 
 # 👨🏽‍💻 Pedro Henrique 
