@@ -9,7 +9,7 @@ Meu nome é Pedro Henrique Silva Ribeiro, tenho 19 anos e sou natural de São Pa
 
 ### 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats-72wg.vercel.app/api?username=PedroHenrique910&show_icons=true&theme=radical&include_all_commits=true))](https://github.com/PedroHenrique910/github-readme-stats)![Top Langs](https://github-readme-stats-eight-beige-35.vercel.app/api/top-langs/?username=PedroHenrique910&layout=compact&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats-72wg.vercel.app/api?username=PedroHenrique910&show_icons=true&theme=radical&include_all_commits=true))](https://github.com/PedroHenrique910/github-readme-stats)![Top Langs](https://github-readme-stats-72wg.vercel.app/api/top-langs/?username=PedroHenrique910&layout=compact&theme=radical)
 
 ### 🤖 Linguagens e Tecnologias
 
